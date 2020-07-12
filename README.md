@@ -24,7 +24,7 @@
 
 ## Alternative Projects
 
-- [Grana Extra](https://lkt.bio/granaextra) - Web/Android App
+- [Grana Extra](https://many.link/granaextra) - Web/Android App
 - [Vida Vibracional](https://www.linktree.com.br/vidavibracional) - Music
 - [Trip Clip](https://www.instagram.com/br.tripclip/) - Photography
 
