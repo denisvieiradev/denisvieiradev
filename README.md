@@ -48,7 +48,7 @@
 <br/>
 
 
-### Github Stats:
+## Github Stats:
 
 <img align="left" alt="Denis Vieira Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=denisvieira05&show_icons=true&hide_border=true" />
 
