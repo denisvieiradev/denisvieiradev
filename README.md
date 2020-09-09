@@ -35,9 +35,8 @@
 
 ➡️ [more blog posts...](https://medium.com/@denisvieira)
 
----
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="denisvieira.js.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Denis Vieira | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -48,12 +47,13 @@
 <br/>
 <br/>
 
+
 ### Github Stats:
 
 <img align="left" alt="Denis Vieira Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=denisvieira05&show_icons=true&hide_border=true" />
 
 
-### Learn more about me at [denisvieira.js.org](https://denisvieira.js.org/)
+## Learn more about me at [denisvieira.js.org](https://denisvieira.js.org/)
 
 
 [website]: https://denisvieira.js.org
