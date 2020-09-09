@@ -1,14 +1,6 @@
-
-
-<!--
-**denisvieira05/denisvieira05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
---> 
-[![Website Badge](https://img.shields.io/badge/-Personal_Website-black?style=flat-square&logo=github&logoColor=white&link=https://denisvieira.js.org/)](https://denisvieira.js.org/)
-[![Writing](https://img.shields.io/badge/-Blog-grey?style=flat-square&logo=github&logoColor=white&link=https://medium.com/@denisvieira)](https://medium.com/@denisvieira)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/fromdenisvieira/)](https://linkedin.com/in/fromdenisvieira/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fromdenisvieira)](https://twitter.com/fromdenisvieira)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/denisvieira)](https://t.me/denisvieira) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-5851d8?style=flat-square&labelColor=5851d8&logo=instagram&logoColor=white&link=https://www.instagram.com/denisvieira05)](https://www.instagram.com/denisvieira05)  
+[![Website](https://img.shields.io/website?label=denisvieira.js.org&style=for-the-badge&url=https%3A%2F%2Fdenisvieira.js.org)](https://denisvieira.js.org/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/fromdenisvieira?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Message me on Telegram](https://img.shields.io/website?label=Message%20me%20on%20Telegram&style=for-the-badge&logo=telegram&url=https%3A%2F%2Ft.me/denisvieira)](https://t.me/denisvieira)
 
 
 ### Hi there 👋
@@ -28,6 +20,44 @@
 - [Vida Vibracional](https://www.linktree.com.br/vidavibracional) - Music
 - [Trip Clip](https://www.instagram.com/br.tripclip/) - Photography
 
+### 📕 Writing - Latest Posts
+
+<!-- BLOG-POST-LIST:START -->
+#### en
+- [Setting up CI/CD with Github Actions and Firebase App Distribution for Android Projects- dev.to](https://dev.to/denisvieira05/setting-up-ci-cd-with-github-actions-and-firebase-app-distribution-for-android-projects-4en5)
+- [How to use android libraries locally and leaving your development faster - Stantmob Blog](https://medium.com/stantmob/how-to-use-android-libraries-locally-and-leaving-your-development-more-fast-47ef921c6dd9)
+- [RSCSS — Styling your CSS without losing your sanity - Stantmob Blog](https://medium.com/stantmob/how-to-use-android-libraries-locally-and-leaving-your-development-more-fast-47ef921c6dd9)
+
+#### pt-br
+- [Configurando CI/CD com Github Actions e Firebase App Distribution para projetos Android - Android Dev BR Community Blog](https://medium.com/android-dev-br/configurando-ci-cd-com-github-actions-e-firebase-app-distribution-para-projetos-android-8df02096610b)
+- [Código Limpo: dicas práticas para turbinar a escrita, leitura e escalabilidade de um código - Zup Innovation Blog](https://www.zup.com.br/blog/codigo-limpo-dicas-praticas)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://medium.com/@denisvieira)
+
+---
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br/>
+<br/>
+
+### Github Stats:
+
+<img align="left" alt="Denis Vieira Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=denisvieira05&show_icons=true&hide_border=true" />
 
 
 ### Learn more about me at [denisvieira.js.org](https://denisvieira.js.org/)
+
+
+[website]: https://denisvieira.js.org
+[twitter]: https://twitter.com/fromdenisvieira
+[youtube]: https://www.youtube.com/channel/UCI1gAHY7dcVzEPoEo12ObfA?
+[instagram]: https://instagram.com/denisvieira05
+[linkedin]: https://linkedin.com/in/fromdenisvieira
