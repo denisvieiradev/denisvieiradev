@@ -20,7 +20,7 @@
 - [Vida Vibracional](https://www.linktree.com.br/vidavibracional) - Music
 - [Trip Clip](https://www.instagram.com/br.tripclip/) - Photography
 
-### 📕 Writing - Latest Posts
+## 📕 Writing - Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
 #### en
