@@ -1,5 +1,5 @@
 [![Website](https://img.shields.io/website?label=denisvieira.js.org&style=for-the-badge&url=https%3A%2F%2Fdenisvieira.js.org)](https://denisvieira.js.org/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/fromdenisvieira?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=fromdenisvieira)
+[![Twitter Follow](https://img.shields.io/twitter/follow/fromdenisvieira?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdenisvieira05&screen_name=fromdenisvieira)
 [![Message me on Telegram](https://img.shields.io/website?label=Message%20me%20on%20Telegram&style=for-the-badge&logo=telegram&url=https%3A%2F%2Ft.me/denisvieira)](https://t.me/denisvieira)
 
 
