@@ -12,7 +12,7 @@
 - Great passionate about technology, nature, music and innovation, maintaining the harmony of projects as a whole is always an important pillar in development.
 - Enthusiastic about sharing knowledge, I always keep practicing to participate in events, meetups, courses and workshops, seeking to expand knowledge and keep me as up to date as possible.
 
-- 🔭 I’m currently working on [ZUP INNOVATION](https://www.zup.com.br/)
+- 🔭 I’m currently working at [PIPEFY](https://www.pipefy.com/)
 
 ## Alternative Projects
 
