@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/website?label=denisvieira.js.org&style=for-the-badge&url=https%3A%2F%2Fdenisvieira.js.org)](https://denisvieira.js.org/)
+[![Website](https://img.shields.io/website?label=denisvieira.notion.site&style=for-the-badge&url=https%3A%2F%2Fdenisvieira.js.org)](https://denisvieira.notion.site/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/denisvieira05?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdenisvieira05&screen_name=denisvieira05)
 [![Message me on Telegram](https://img.shields.io/website?label=Message%20me%20on%20Telegram&style=for-the-badge&logo=telegram&url=https%3A%2F%2Ft.me/denisvieira)](https://t.me/denisvieira)
 
@@ -53,11 +53,11 @@
 <img align="left" alt="Denis Vieira Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=denisvieira05&show_icons=true&hide_border=true" />
 
 
-## Learn more about me at [denisvieira.js.org](https://denisvieira.js.org/)
+## Learn more about me at [denisvieira.notion.site](https://denisvieira.notion.site/)
 
 
-[website]: https://denisvieira.js.org
-[twitter]: https://twitter.com/fromdenisvieira
+[website]: https://denisvieira.notion.site/
+[twitter]: https://twitter.com/denisvieira05
 [youtube]: https://www.youtube.com/channel/UCI1gAHY7dcVzEPoEo12ObfA?
 [instagram]: https://instagram.com/denisvieira05
-[linkedin]: https://linkedin.com/in/fromdenisvieira
+[linkedin]: https://linkedin.com/in/denisvieira05
