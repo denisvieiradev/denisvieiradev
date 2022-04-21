@@ -2,17 +2,25 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/denisvieira05?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdenisvieira05&screen_name=denisvieira05)
 [![Message me on Telegram](https://img.shields.io/website?label=Message%20me%20on%20Telegram&style=for-the-badge&logo=telegram&url=https%3A%2F%2Ft.me/denisvieira)](https://t.me/denisvieira)
 
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denisvieira05)](https://www.linkedin.com/in/jjean-jacques10/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/denisvieira05/)](https://github.com/denisvieira05/) [![YouTube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCI1gAHY7dcVzEPoEo12ObfA?view_as=subscriber)](https://www.youtube.com/channel/UCI1gAHY7dcVzEPoEo12ObfA?view_as=subscriber) [![Medium](https://img.shields.io/badge/-medium-242A2D?style=flat&logo=medium&logoColor=white&link=https://medium.com/@denisvieira)](https://medium.com/@denisvieira) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/jjean_dev)](https://www.instagram.com/denisvieira05) ![](https://komarev.com/ghpvc/?username=denisvieira05)
+
 
 ### Hi there 👋
 
 ## About me 👨 🇧🇷
+<p align="left"> 
+  
+*Work* <br>
+💻 Software Engineer at [Pipefy](https://www.pipefy.com/)<br>
+💻 Experience creating mobile and web solutions. <br>
+👨‍💻 Graduated in Information Systems at [Federal Institute of Alagoas (IFAL)](https://www2.ifal.edu.br/)<br>
 
-- Graduated in Bachelor of Information Systems at Federal Institute of Alagoas [(IFAL)](https://www2.ifal.edu.br/) and have experience creating mobile and web solutions.
-- Adept of the DIY (Do It Yourself) practice and fanatic for new knowledge, I focus on finding the best solutions and good practices for the agility, planning, scalability and execution of numerous types of projects and tasks.
-- Great passionate about technology, nature, music and innovation, maintaining the harmony of projects as a whole is always an important pillar in development.
-- Enthusiastic about sharing knowledge, I always keep practicing to participate in events, meetups, courses and workshops, seeking to expand knowledge and keep me as up to date as possible.
-
-- 🔭 I’m currently working at [PIPEFY](https://www.pipefy.com/)
+*Personal*<br>
+🎸 Great passionate about technology, music lover guitarist and passionate to get life challenges and solve problems. <br>
+🛠️ Adept of the DIY (Do It Yourself) practice and fanatic for new knowledge, I focus on finding the best solutions and good practices for the agility, planning, scalability and execution of numerous types of projects and tasks. <br>
+📚 Enthusiastic about sharing knowledge, I always keep practicing to participate in events, meetups, courses and workshops, seeking to expand knowledge and keep me as up to date as possible.<br>
+  
+ </p>
 
 ## Alternative Projects
 
@@ -47,6 +55,17 @@
 <br/>
 <br/>
 
+
+
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjeanjacques10&hide=html,TSQL,CSS,PLSQL,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jjeanjacques10&show_icons=true&count_private=true" /></td>
+    </tr>   
+  </table>
+</center>
 
 ## Github Stats:
 
