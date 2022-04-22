@@ -26,7 +26,7 @@
 
 <b>Personal</b><br>
   
-- Great passionate about technology, to get life challenges and solve problems besides music lover, guitarist and passionat. 🎸 <br>
+- Great passionate about technology, to get life challenges and solve problems besides music lover and guitarist. 🎸 <br>
 - Adept of the DIY (Do It Yourself) practice and fanatic for new knowledge, I focus on finding the best solutions and good practices for the agility, planning, scalability and execution of numerous types of projects and tasks. 🛠️ <br>
 - Enthusiastic about sharing knowledge, I always keep practicing to participate in events, meetups, courses and workshops, seeking to expand knowledge and keep me as up to date as possible. 📚 <br>
 </br>
