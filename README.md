@@ -5,7 +5,7 @@
 <b>Work</b> <br>
   
 - 8 years working with software engineering, creating solutions and solving problems. 🧑🏿‍💻 
-- Currectly Software Engineer at [Pipefy](https://www.pipefy.com/) and android developer specialist. ✨ <br>
+- Currently Software Engineer at [Pipefy](https://www.pipefy.com/) and android developer specialist. ✨ <br>
 - Experience creating mobile and web solutions. 📱 🌐 <br>
 - Graduated in Information Systems at [Federal Institute of Alagoas (IFAL)](https://www2.ifal.edu.br/) 🎓 <br> 
   
@@ -71,7 +71,7 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denisvieira05)](https://www.linkedin.com/in/jjean-jacques10/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denisvieira05)](https://www.linkedin.com/in/denisvieira05/) 
 [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/denisvieira05/)](https://github.com/denisvieira05/) 
 [![YouTube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCI1gAHY7dcVzEPoEo12ObfA?view_as=subscriber)](https://www.youtube.com/channel/UCI1gAHY7dcVzEPoEo12ObfA?view_as=subscriber) 
 [![Medium](https://img.shields.io/badge/-medium-242A2D?style=flat&logo=medium&logoColor=white&link=https://medium.com/@denisvieira)](https://medium.com/@denisvieira) 
