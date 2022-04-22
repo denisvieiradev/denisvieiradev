@@ -1,26 +1,37 @@
-[![Website](https://img.shields.io/website?label=denisvieira.notion.site&style=for-the-badge&url=https%3A%2F%2Fdenisvieira.js.org)](https://denisvieira.notion.site/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/denisvieira05?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdenisvieira05&screen_name=denisvieira05)
-[![Message me on Telegram](https://img.shields.io/website?label=Message%20me%20on%20Telegram&style=for-the-badge&logo=telegram&url=https%3A%2F%2Ft.me/denisvieira)](https://t.me/denisvieira)
-
-
 ### Hi there 👋
 
-## About me 👨 🇧🇷
+## About me 🇧🇷 
+  
+<b>Work</b> <br>
+  
+- 8 years working with software engineering, creating solutions and solving problems. 🧑🏿‍💻 
+- Currently Software Engineer at [Pipefy](https://www.pipefy.com/) and android developer specialist. ✨ <br>
+- Experience creating mobile and web solutions. 📱 🌐 <br>
+- Graduated in Information Systems at [Federal Institute of Alagoas (IFAL)](https://www2.ifal.edu.br/) 🎓 <br> 
+  
+- what I've worked with: <br/><br/>
+  ![Android](https://img.shields.io/badge/-Android-green?style=flat&logoColor=white&logo=android)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-B81EE7?style=flat&logoColor=white&logo=kotlin) 
+  ![React](https://img.shields.io/badge/-React-5ED3F3?style=flat&logoColor=white&logo=react) 
+  ![React Native](https://img.shields.io/badge/-ReactNative-5ED3F3?style=flat&logoColor=white&logo=react) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) 
+  ![Typescript](https://img.shields.io/badge/-Typescript-ffdd19?style=flat&logoColor=white&logo=typescript&color=3178C6) 
+  ![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=white&logo=java) 
+  ![Flutter](https://img.shields.io/badge/-flutter-45D1FD?style=flat&logoColor=white&logo=flutter) 
+  ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) 
+  ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3)
+  ![PHP](https://img.shields.io/badge/-php-7478AE?style=flat&logoColor=white&logo=php) 
+  ![Docker](https://img.shields.io/badge/-docker-1090D1?style=flat&logoColor=white&logo=docker) 
 
-- Graduated in Bachelor of Information Systems at Federal Institute of Alagoas [(IFAL)](https://www2.ifal.edu.br/) and have experience creating mobile and web solutions.
-- Adept of the DIY (Do It Yourself) practice and fanatic for new knowledge, I focus on finding the best solutions and good practices for the agility, planning, scalability and execution of numerous types of projects and tasks.
-- Great passionate about technology, nature, music and innovation, maintaining the harmony of projects as a whole is always an important pillar in development.
-- Enthusiastic about sharing knowledge, I always keep practicing to participate in events, meetups, courses and workshops, seeking to expand knowledge and keep me as up to date as possible.
 
-- 🔭 I’m currently working at [PIPEFY](https://www.pipefy.com/)
+<b>Personal</b><br>
+  
+- Great passionate about technology, to get life challenges and solve problems besides music lover, guitarist and passionat. 🎸 <br>
+- Adept of the DIY (Do It Yourself) practice and fanatic for new knowledge, I focus on finding the best solutions and good practices for the agility, planning, scalability and execution of numerous types of projects and tasks. 🛠️ <br>
+- Enthusiastic about sharing knowledge, I always keep practicing to participate in events, meetups, courses and workshops, seeking to expand knowledge and keep me as up to date as possible. 📚 <br>
+</br>
 
-## Alternative Projects
-
-- [Grana Extra](https://many.link/granaextra) - Web/Android App
-- [Vida Vibracional](https://www.linktree.com.br/vidavibracional) - Music
-- [Trip Clip](https://www.instagram.com/br.tripclip/) - Photography
-
-## 📕 Writing - Latest Posts
+## Writing - Latest Posts ✍🏾
 
 <!-- BLOG-POST-LIST:START -->
 #### en
@@ -33,31 +44,40 @@
 - [Código Limpo: dicas práticas para turbinar a escrita, leitura e escalabilidade de um código - Zup Innovation Blog](https://www.zup.com.br/blog/codigo-limpo-dicas-praticas)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medium.com/@denisvieira)
+➡️ [more blog posts...](https://denisvieira.notion.site/Blog-and-Talks-b6c96fae71814b8ba7d6ccdd3c1da945)
+
+</br>
+
+## Github Stats 📜
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisvieira05&hide=html,TSQL,CSS,PLSQL,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=denisvieira05&show_icons=true&count_private=true" /></td>
+    </tr>   
+  </table>
+</center>
+
+</br>
+
+## Connect with me 💬 
+
+</br>
+
+[![Website](https://img.shields.io/website?label=denisvieira.notion.site&style=for-the-badge&url=https%3A%2F%2Fdenisvieira.js.org)](https://denisvieira.notion.site/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/denisvieira05?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdenisvieira05&screen_name=denisvieira05)
+[![Message me on Telegram](https://img.shields.io/website?label=Message%20me%20on%20Telegram&style=for-the-badge&logo=telegram&url=https%3A%2F%2Ft.me/denisvieira)](https://t.me/denisvieira)
 
 
-## Connect with me:
 
-[<img align="left" alt="denisvieira.js.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Denis Vieira | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Denis Vieira | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Denis Vieira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Denis Vieira | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denisvieira05)](https://www.linkedin.com/in/denisvieira05/) 
+[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/denisvieira05/)](https://github.com/denisvieira05/) 
+[![YouTube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCI1gAHY7dcVzEPoEo12ObfA?view_as=subscriber)](https://www.youtube.com/channel/UCI1gAHY7dcVzEPoEo12ObfA?view_as=subscriber) 
+[![Medium](https://img.shields.io/badge/-medium-242A2D?style=flat&logo=medium&logoColor=white&link=https://medium.com/@denisvieira)](https://medium.com/@denisvieira) 
+[![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/denisvieira05)](https://www.instagram.com/denisvieira05) 
+[![Unsplash](https://img.shields.io/badge/-unsplash-000000?style=flat&logo=unsplash&logoColor=white&link=https://unsplash.com/@denisvieira05)](https://unsplash.com/@denisvieira05)
+![](https://komarev.com/ghpvc/?username=denisvieira05)
 
-<br/>
-<br/>
+### Learn more about me at [denisvieira.notion.site](https://denisvieira.notion.site/)
 
-
-## Github Stats:
-
-<img align="left" alt="Denis Vieira Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=denisvieira05&show_icons=true&hide_border=true" />
-
-
-## Learn more about me at [denisvieira.notion.site](https://denisvieira.notion.site/)
-
-
-[website]: https://denisvieira.notion.site/
-[twitter]: https://twitter.com/denisvieira05
-[youtube]: https://www.youtube.com/channel/UCI1gAHY7dcVzEPoEo12ObfA?
-[instagram]: https://instagram.com/denisvieira05
-[linkedin]: https://linkedin.com/in/denisvieira05
