@@ -28,8 +28,8 @@
   
 - Great passionate about technology, to get life challenges and solve problems besides music lover, guitarist and passionat. 🎸 <br>
 - Adept of the DIY (Do It Yourself) practice and fanatic for new knowledge, I focus on finding the best solutions and good practices for the agility, planning, scalability and execution of numerous types of projects and tasks. 🛠️ <br>
-- Enthusiastic about sharing knowledge, I always keep practicing to participate in events, meetups, courses and workshops, seeking to expand knowledge and keep me as up to date as possible. 📚<br>
-
+- Enthusiastic about sharing knowledge, I always keep practicing to participate in events, meetups, courses and workshops, seeking to expand knowledge and keep me as up to date as possible. 📚 <br>
+</br>
 
 ## Writing - Latest Posts ✍🏾
 
@@ -46,7 +46,7 @@
 
 ➡️ [more blog posts...](https://denisvieira.notion.site/Blog-and-Talks-b6c96fae71814b8ba7d6ccdd3c1da945)
 
-
+</br>
 
 ## Github Stats 📜
 
@@ -59,10 +59,11 @@
   </table>
 </center>
 
+</br>
 
+## Connect with me 💬 
 
-
-## Connect with me 💬
+</br>
 
 [![Website](https://img.shields.io/website?label=denisvieira.notion.site&style=for-the-badge&url=https%3A%2F%2Fdenisvieira.js.org)](https://denisvieira.notion.site/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/denisvieira05?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdenisvieira05&screen_name=denisvieira05)
@@ -77,7 +78,6 @@
 [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/denisvieira05)](https://www.instagram.com/denisvieira05) 
 [![Unsplash](https://img.shields.io/badge/-unsplash-000000?style=flat&logo=unsplash&logoColor=white&link=https://unsplash.com/@denisvieira05)](https://unsplash.com/@denisvieira05)
 ![](https://komarev.com/ghpvc/?username=denisvieira05)
-
 
 ### Learn more about me at [denisvieira.notion.site](https://denisvieira.notion.site/)
 
