@@ -5,10 +5,9 @@
 <b>Work</b> <br>
   
 - 8 years working with software engineering, creating solutions and solving problems. 🧑🏿‍💻 
-- Currently Software Engineer at [Pipefy](https://www.pipefy.com/) and android developer specialist. ✨ <br>
-- Experience creating mobile and web solutions. 📱 🌐 <br>
-- Graduated in Information Systems at [Federal Institute of Alagoas (IFAL)](https://www2.ifal.edu.br/) 🎓 <br> 
-  
+- Currently Software Engineer at [Pipefy](https://www.pipefy.com/) and android developer specialist. ✨
+- Experience creating mobile and web solutions. 📱 🌐
+- Graduated in Information Systems at [Federal Institute of Alagoas (IFAL)](https://www2.ifal.edu.br/) 🎓 
 - what I've worked with: <br/><br/>
   ![Android](https://img.shields.io/badge/-Android-green?style=flat&logoColor=white&logo=android)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-B81EE7?style=flat&logoColor=white&logo=kotlin) 
