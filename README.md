@@ -5,7 +5,7 @@
 <b>Work</b> <br>
   
 - 9 years working with software engineering, creating solutions and solving problems. 🧑🏿‍💻 
-- Currently Software Engineer at [Pipefy](https://www.pipefy.com/) and Android developer specialist. ✨
+- Currently Senior Software Engineer at [Bem Fácil Digital](https://www.bemfacil.com.br/) and Android developer specialist. ✨
 - Experience creating mobile and web solutions. 📱 🌐
 - Graduated in Information Systems at [Federal Institute of Alagoas (IFAL)](https://www2.ifal.edu.br/) 🎓 
 - what I've worked with: <br/><br/>
