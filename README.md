@@ -64,7 +64,7 @@
 
 </br>
 
-[![Website](https://img.shields.io/website?label=denisvieira.notion.site&style=for-the-badge&url=https%3A%2F%2Fdenisvieira.js.org)](https://denisvieira.notion.site/)
+[![Website](https://img.shields.io/website?label=denisvieira05.com&style=for-the-badge&url=https%3A%2F%2Fdenisvieira05.framer.website)](https://denisvieira05.framer.website)
 [![Twitter Follow](https://img.shields.io/twitter/follow/denisvieira05?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdenisvieira05&screen_name=denisvieira05)
 [![Message me on Telegram](https://img.shields.io/website?label=Message%20me%20on%20Telegram&style=for-the-badge&logo=telegram&url=https%3A%2F%2Ft.me/denisvieira)](https://t.me/denisvieira)
 
@@ -78,5 +78,4 @@
 [![Unsplash](https://img.shields.io/badge/-unsplash-000000?style=flat&logo=unsplash&logoColor=white&link=https://unsplash.com/@denisvieira05)](https://unsplash.com/@denisvieira05)
 ![](https://komarev.com/ghpvc/?username=denisvieira05)
 
-### Learn more about me at [denisvieira.notion.site](https://denisvieira.notion.site/)
-
+### Learn more about me at [denisvieira05.com](https://denisvieira05.framer.website)
