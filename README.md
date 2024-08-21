@@ -60,7 +60,7 @@
 </br>
 
 <b>Keywords:</b> <br>
-MVC, MVVM, MVP, Viper, Android, Android Developer, Kotlin, Java, Compose, KMP, Kotlin Multiplatform, IOS, Android Studio, VSCode, Mobile Developer
+MVC, MVVM, MVP, Viper, Android, Android Developer, Kotlin, Java, Jetpack Compose, KMP, Kotlin Multiplatform, IOS, Android Studio, VSCode, Mobile Developer
 
 </br>
 
