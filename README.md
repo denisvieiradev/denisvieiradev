@@ -2,8 +2,6 @@
 
 ## About me 🇧🇷 
 
-# Hi there 👋
-
 <b>Work:</b> <br>
 - 10 years working with software engineering, creating solutions and solving problems. 🧑🏿‍💻
 - Currently, senior software engineer specialized in Android development ✨
