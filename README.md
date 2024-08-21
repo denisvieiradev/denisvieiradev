@@ -1,14 +1,16 @@
 ### Hi there 👋
 
 ## About me 🇧🇷 
-  
-<b>Work</b> <br>
-  
-- 9 years working with software engineering, creating solutions and solving problems. 🧑🏿‍💻 
-- Currently Senior Software Engineer at [Bem Fácil Digital](https://www.bemfacil.com.br/) and Android developer specialist. ✨
-- Experience creating mobile and web solutions. 📱 🌐
-- Graduated in Information Systems at [Federal Institute of Alagoas (IFAL)](https://www2.ifal.edu.br/) 🎓 
-- what I've worked with: <br/><br/>
+
+# Hi there 👋
+
+<b>Work:</b> <br>
+- 10 years working with software engineering, creating solutions and solving problems. 🧑🏿‍💻
+- Currently, senior software engineer specialized in Android development ✨
+- Founding the [Future Devs Community](https://bit.ly/futurosdevs) to help people transform their lives through technology and programming. 🚀
+- Experience creating scalable mobile and web solutions. 📱 🌐
+- Graduated in Information Systems at Federal Institute of Alagoas (IFAL) 🎓
+- What I've worked with: <br/><br/>
   ![Android](https://img.shields.io/badge/-Android-green?style=flat&logoColor=white&logo=android)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-B81EE7?style=flat&logoColor=white&logo=kotlin) 
   ![React](https://img.shields.io/badge/-React-5ED3F3?style=flat&logoColor=white&logo=react) 
@@ -22,13 +24,12 @@
   ![PHP](https://img.shields.io/badge/-php-7478AE?style=flat&logoColor=white&logo=php) 
   ![Docker](https://img.shields.io/badge/-docker-1090D1?style=flat&logoColor=white&logo=docker) 
 
+<b>More:</b> <br>
+- Great passionate about technology, to get life challenges and solve problems besides music lover and guitarist. 🎸
+- Adept of the DIY (Do It Yourself) practice and fanatic for new knowledge, I focus on finding the best solutions and good practices for the agility, planning, scalability and execution of numerous types of projects and tasks. 🛠️
+- Enthusiastic about sharing knowledge, I always keep practicing to participate in events, meetups, courses and workshops, seeking to expand knowledge and keep me as up to date as possible. 📚
 
-<b>Personal</b><br>
-  
-- Great passionate about technology, to get life challenges and solve problems besides music lover and guitarist. 🎸 <br>
-- Adept of the DIY (Do It Yourself) practice and fanatic for new knowledge, I focus on finding the best solutions and good practices for the agility, planning, scalability and execution of numerous types of projects and tasks. 🛠️ <br>
-- Enthusiastic about sharing knowledge, I always keep practicing to participate in events, meetups, courses and workshops, seeking to expand knowledge and keep me as up to date as possible. 📚 <br>
-</br>
+
 
 ## Writing - Latest Posts ✍🏾
 
@@ -52,11 +53,16 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisvieira05&hide=html,TSQL,CSS,PLSQL,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=denisvieira05&show_icons=true&count_private=true" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisvieiradev&hide=html,TSQL,CSS,PLSQL,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=denisvieiradev&show_icons=true&count_private=true" /></td>
     </tr>   
   </table>
 </center>
+
+</br>
+
+<b>Keywords:</b> <br>
+MVC, MVVM, MVP, Viper, Android, Android Developer, Kotlin, Java, Compose, KMP, Kotlin Multiplatform, IOS, Android Studio, VSCode, Mobile Developer
 
 </br>
 
@@ -64,18 +70,16 @@
 
 </br>
 
-[![Website](https://img.shields.io/website?label=denisvieira05.com&style=for-the-badge&url=https%3A%2F%2Fdenisvieira05.framer.website)](https://denisvieira05.framer.website)
-[![Twitter Follow](https://img.shields.io/twitter/follow/denisvieira05?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdenisvieira05&screen_name=denisvieira05)
-[![Message me on Telegram](https://img.shields.io/website?label=Message%20me%20on%20Telegram&style=for-the-badge&logo=telegram&url=https%3A%2F%2Ft.me/denisvieira)](https://t.me/denisvieira)
-
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denisvieira05)](https://www.linkedin.com/in/denisvieira05/) 
-[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/denisvieira05/)](https://github.com/denisvieira05/) 
-[![YouTube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCI1gAHY7dcVzEPoEo12ObfA?view_as=subscriber)](https://www.youtube.com/channel/UCI1gAHY7dcVzEPoEo12ObfA?view_as=subscriber) 
-[![Medium](https://img.shields.io/badge/-medium-242A2D?style=flat&logo=medium&logoColor=white&link=https://medium.com/@denisvieira)](https://medium.com/@denisvieira) 
-[![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/denisvieira05)](https://www.instagram.com/denisvieira05) 
+[![Website](https://img.shields.io/website?label=denisvieiradev.com&style=for-the-badge&url=https%3A%2F%2Fdenisvieiradev.com)](https://denisvieiradev.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/denisvieiradev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdenisvieiradev&screen_name=denisvieiradev)
+</br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denisvieiradev)](https://www.linkedin.com/in/denisvieiradev/) 
+[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/denisvieiradev/)](https://github.com/denisvieiradev/) 
+[![YouTube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/@denisvieiradev?view_as=subscriber)](https://www.youtube.com/@denisvieiradev?view_as=subscriber) 
+[![Medium](https://img.shields.io/badge/-medium-242A2D?style=flat&logo=medium&logoColor=white&link=https://denisvieiradev.medium.com/)](https://denisvieiradev.medium.com/) 
+[![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/denisvieiradev)](https://www.instagram.com/denisvieiradev) 
 [![Unsplash](https://img.shields.io/badge/-unsplash-000000?style=flat&logo=unsplash&logoColor=white&link=https://unsplash.com/@denisvieira05)](https://unsplash.com/@denisvieira05)
+</br>
 ![](https://komarev.com/ghpvc/?username=denisvieira05)
 
-### Learn more about me at [denisvieira05.com](https://denisvieira05.framer.website)
+### Learn more about me at [denisvieiradev.com](https://denisvieiradev.com)
