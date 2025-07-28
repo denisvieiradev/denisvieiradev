@@ -3,7 +3,7 @@
 ## About me 🇧🇷 
 
 <b>Work:</b> <br>
-- 10 years working with software engineering, creating solutions and solving problems. 🧑🏿‍💻
+- 11 years working with software engineering, creating solutions and solving problems. 🧑🏿‍💻
 - Currently, senior software engineer specialized in Android development ✨
 - Founding the [Future Devs Community](https://bit.ly/futurosdevs) to help people transform their lives through technology and programming. 🚀
 - Experience creating scalable mobile and web solutions. 📱 🌐
