@@ -21,10 +21,10 @@ Building scalable mobile and web solutions - "Code is a commodity, maturity is n
 - Music lover and guitarist — creativity off-screen fuels better code on-screen. 🎸
 
 ## Relevant Experiences
-- **Bem Fácil Digital:** Tech Lead & Principal Android Engineer, architecting the payment capture ecosystem for a fintech processing Credit, Debit, and PIX on SmartPOS devices.
-- **Pipefy:** Senior Android Engineer, stabilizing and modernizing a legacy SaaS app used daily by thousands of business users.
-- **Zup Innovation / Banco Itaú:** Senior Android Developer, building a white-label Banking as a Service platform with A/B testing and feature flags at scale.
-- **Stant:** Android Tech Lead, leading an offline-first B2B app for construction field teams with complex data sync challenges.
+- **[Bem Fácil Digital](https://bemfacil.com.br/):** Tech Lead & Principal Android Engineer, architecting the payment capture ecosystem for a fintech processing Credit, Debit, and PIX on SmartPOS devices.
+- **[Pipefy](https://www.pipefy.com/):** Senior Android Engineer, stabilizing and modernizing a legacy SaaS app used daily by thousands of business users.
+- **[Zup Innovation / Itaú Bank](https://zup.com.br/):** Senior Android Developer, building a white-label Banking as a Service platform with A/B testing and feature flags at scale.
+- **[Stant](https://www.stant.com.br/):** Android Tech Lead, leading an offline-first B2B app for construction field teams with complex data sync challenges.
 
 ## Personal Projects
 
