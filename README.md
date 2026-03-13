@@ -7,31 +7,33 @@ Building scalable mobile and web solutions - "Code is a commodity, maturity is n
 ---
 
 ## What I Do
-
 - **Senior Software Engineer:** Building scalable systems and leading technical decisions across the full development lifecycle.
 - **Android Engineer Specialist:** Crafting high-performance mobile experiences with deep expertise in the Android ecosystem.
 - **Tech Lead:** Guiding engineering teams through architecture, code quality, and delivery with a hands-on approach.
 - **Speaker:** Turning complex engineering and leadership challenges into practical, engaging talks for the community.
 - **AI-Augmented Development:** I use tools like Cursor, Codex, and Claude Code to boost productivity and improve code quality.
----
 
-### About me
+## About me
 - 12 years turning complex problems into scalable software. 
 - Graduated in Information Systems at Federal Institute of Alagoas (IFAL) 🎓
 - I build mobile products that perform, lead teams that ship, and never stop learning.
 - Active speaker at events, meetups, and workshops — I learn best by teaching.
 - Music lover and guitarist — creativity off-screen fuels better code on-screen. 🎸
 
----
+## Relevant Experiences
+- **Bem Fácil Digital:** Tech Lead & Principal Android Engineer, architecting the payment capture ecosystem for a fintech processing Credit, Debit, and PIX on SmartPOS devices.
+- **Pipefy:** Senior Android Engineer, stabilizing and modernizing a legacy SaaS app used daily by thousands of business users.
+- **Zup Innovation / Banco Itaú:** Senior Android Developer, building a white-label Banking as a Service platform with A/B testing and feature flags at scale.
+- **Stant:** Android Tech Lead, leading an offline-first B2B app for construction field teams with complex data sync challenges.
 
-## Currently Building
+## Personal Projects
 
-| | Project | Stack | Status |
-|---|---|---|---|
-| 🎵 | **[Musit](https://musit.app/)** — SaaS habit platform for musicians | TypeScript · Vite · Supabase | Live |
-| 🛒 | **[CheckCart](https://github.com/denisvieiradev/checkcart-kmp)** — SuperMarket Assistant | Android & IOS | Kotlin/KMP | In dev |
-
----
+| | Project | Platform | Stack | Status | Type
+|---|---|---|---|---|---|
+| 🎮 | **[E-Sports Radar](https://github.com/denisvieiradev/cstv-android)** — Track live and upcoming esports matches — powered by the PandaScore API. | Android | Kotlin | In dev | Open Source |
+| 🎵 | **[Musit](https://musit.app/)** — SaaS habit platform for musicians | Web (Mobile-first) | TypeScript · Vite · Supabase | Live | Private |
+| 🛒 | **[CheckCart](https://github.com/denisvieiradev/checkcart-kmp)** — SuperMarket Assistant | Android & IOS | Kotlin/KMP | In dev | Private |
+| ⏳ | **[TimeBlocker](https://github.com/denisvieiradev/checkcart-kmp)** — Time Assistant | Android & IOS | Kotlin/KMP | In dev | Private |
 
 ## Tech Stack
 
@@ -51,7 +53,7 @@ Building scalable mobile and web solutions - "Code is a commodity, maturity is n
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logoColor=white&logo=supabase)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logoColor=white&logo=docker)
 
-**Architecture:** MVVM · Clean Architecture · Coroutines · REST/GraphQL
+**Architecture:** MVVM · MVI · Clean Architecture · Coroutines · REST/GraphQL · Hilt/Koin
 
 ---
 
