@@ -30,7 +30,7 @@ Building scalable mobile and web solutions - "Code is a commodity, maturity is n
 
 | | Project | Platform | Stack | Status | Type
 |---|---|---|---|---|---|
-| 💻 | **[devflow-ai-kit](https://github.com/denisvieiradev/devflow-ai-kit)** — Assistant to Developers | CLI | Typescript | In dev | Open Source |
+| 💻 | **[devflow-cli](https://github.com/denisvieiradev/devflow-cli)** — Assistant to Developers | CLI | Typescript | In dev | Open Source |
 | 🎮 | **[E-Sports Radar](https://github.com/denisvieiradev/cstv-android)** — Track live and upcoming esports matches — powered by the PandaScore API. | Android | Kotlin | In dev | Open Source |
 | 👤 | **[Github User Search App](https://github.com/denisvieiradev/github-user-search)** — Simple app to find details, discover and favorite github users. | Android | Kotlin | Completed in 2023 | Open Source |
 | 🎵 | **[Musit](https://musit.app/)** — SaaS habit platform for musicians | Web (Mobile-first) | TypeScript · Vite · Supabase | Live | Private |
